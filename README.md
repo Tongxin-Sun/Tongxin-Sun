@@ -13,7 +13,7 @@
 #### Open Source Contributions
 
 - The Odin Project
-  - Improved documentation accuracy in course introductions  
+  - Improved documentation accuracy in course introductions
     https://github.com/TheOdinProject/curriculum/pull/30752
   - Consolidate static page routes using a scope declaration
     https://github.com/TheOdinProject/theodinproject/pull/4865
