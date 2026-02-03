@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Open Source Contributions
+#### Open Source Contributions
 
 - The Odin Project
   - Improved documentation accuracy in course introductions  
